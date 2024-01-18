@@ -12,3 +12,8 @@ From 🇭🇰. I do a bit of everything.
 * 🧗   I climb, mainly indoor.
 * 🎨   I paint miniatures, reach me for commission works.
 * 🎲   Board game collector, always out of space. Latest addition :《Oathsworn》.
+<hr>
+<p align="center">
+  <i>Get in touch with me?</i>
+<p align="center">
+<a href= "https://www.linkedin.com/in/austin-cheung-624ab9167/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
