@@ -1,7 +1,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square)](https://github.com/austinmyc/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/austinmyc/)
-![Profile views](https://komarev.com/ghpvc/?username=DevOgabek&color=lightgrey)
+![Profile views](https://komarev.com/ghpvc/?username=austinmyc&color=lightgrey)
 
 # Hey this is Austin 👋
 
