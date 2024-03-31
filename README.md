@@ -1,6 +1,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square)](https://github.com/austinmyc/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/austinmyc/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/austinmyc/)
 ![Profile views](https://komarev.com/ghpvc/?username=austinmyc&color=lightgrey)
 
 # Hey this is Austin 👋
@@ -16,9 +17,8 @@ From 🇭🇰. I do a bit of everything.
 * ⛵   Welcome for all kinds of open-source collaborations.
 * 🧗   I climb, mainly indoor.
 * 🎨   I paint miniatures, reach me for commissioned works.
-* 🎲   Board game collector, always out of space. Latest additions :《Oathsworn》, 《7th Citadel》.
+* 🎲   Board game collector, always out of space. Latest additions :[《Oathsworn》](https://boardgamegeek.com/boardgame/251661/oathsworn-into-the-deepwood), [《7th Citadel》](https://boardgamegeek.com/boardgame/286063/the-7th-citadel)
 <hr>
 <p align="center">
-  <i>Get in touch with me?</i>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=austinmyc&theme=light">
 <p align="center">
-<a href= "https://www.linkedin.com/in/austin-cheung-624ab9167/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
