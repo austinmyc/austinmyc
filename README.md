@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/austinmyc/)
 ![Profile views](https://komarev.com/ghpvc/?username=austinmyc&color=lightgrey)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/austinmyc?theme=nord&font=Work%20Sans&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/austinmyc?theme=light&font=Work%20Sans&ext=contest)
 # Hey this is Austin 👋
 
 From 🇭🇰. I do a bit of everything.   
