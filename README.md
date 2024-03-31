@@ -5,7 +5,10 @@
 ![Profile views](https://komarev.com/ghpvc/?username=austinmyc&color=lightgrey)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/austinmyc?theme=light&font=Work%20Sans&ext=contest)
-# Hey this is Austin 👋
+
+ <hr>
+
+![Header](https://readme-typing-svg.herokuapp.com?font=Roboto&size=36&duration=3500&pause=1000&color=484848&random=false&width=435&lines=++Hey+this+is+Austin!%F0%9F%91%8B++)
 
 From 🇭🇰. I do a bit of everything.   
 
