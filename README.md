@@ -12,7 +12,7 @@
 
 From 🇭🇰. I do a bit of everything.   
 
-* 🧐   Interested in Research, Quant, ML, and solving problems.
+* 🧐   Interested in Research, ML, Deep Learning, and solving problems.
 * 💼   Used to be a civil servant, but now I'm a student.
 * 🎓   Master of Science in Business Analytics; BBA. in Accounting and Information Systems
 * 🌱   Currently working on NLP & Quantitative Trading projects.
