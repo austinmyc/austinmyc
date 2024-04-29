@@ -15,7 +15,7 @@ From 🇭🇰. I do a bit of everything.
 * 🧐   Interested in Research, Quant, ML, and solving problems.
 * 💼   Used to be a civil servant, but now I'm a student.
 * 🎓   Master of Science in Business Analytics; BBA. in Accounting and Information Systems
-* 🌱   Currently working on Deep Learning, NLP, Quantitative Trading.
+* 🌱   Currently working on NLP & Quantitative Trading projects.
 * 📚   Reading 《Options, Futures, and Other Derivatives 9th Ed.》, 《Flash Boys》.
 * 💻   Getting better at DSA... 
 * ⛵   Welcome for all kinds of open-source collaborations.
