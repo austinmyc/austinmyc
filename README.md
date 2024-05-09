@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/austinmyc/)
 ![Profile views](https://komarev.com/ghpvc/?username=austinmyc&color=lightgrey)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/austinmyc?theme=light&font=Work%20Sans&ext=contest)
+
 
  <hr>
 
@@ -15,14 +15,19 @@ From 🇭🇰. I do a bit of everything.
 * 🧐   Interested in Research, ML, Deep Learning, and solving problems.
 * 💼   Used to be a civil servant, but now I'm a student.
 * 🎓   Master of Science in Business Analytics; BBA. in Accounting and Information Systems
-* 🌱   Currently working on NLP & Quantitative Trading projects.
-* 📚   Reading 《Options, Futures, and Other Derivatives 9th Ed.》, 《Flash Boys》.
+* 🌱   Currently working on 1. a consultant matching system, 2. Climbing board routes analysis
+* ⛵   Ideas that I might work on:
+  + Knot invariants analysis (using KAN)
+  + Geoguessr for HK suburban areas (Ref: Standford PIGEON)
+  + Chessbot for《That Time You Killed Me》
+* 📚   Reading Kolmogorov Arnold Network (KAN), 《Options, Futures, and Other Derivatives 9th Ed.》, 《Flash Boys》.
 * 💻   Getting better at DSA... 
-* ⛵   Welcome for all kinds of open-source collaborations.
 * 🧗   I climb, mainly indoor.
 * 🎨   I paint miniatures, reach me for commissioned works.
 * 🎲   Board game collector, always out of space. Latest additions :[《Oathsworn》](https://boardgamegeek.com/boardgame/251661/oathsworn-into-the-deepwood), [《7th Citadel》](https://boardgamegeek.com/boardgame/286063/the-7th-citadel)
 <hr>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/austinmyc?theme=light&font=Work%20Sans&ext=contest)
 <!--
 <p align="center">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=austinmyc&theme=light">
