@@ -15,7 +15,7 @@ From 🇭🇰. I do a bit of everything.
 * 🧐   Interested in Research, ML, Deep Learning, and solving problems.
 * 💼   Used to be a civil servant, but now I'm a student.
 * 🎓   Master of Science in Business Analytics; BBA. in Accounting and Information Systems
-* 🌱   Currently working on 1. a consultant matching system, 2. Climbing board routes analysis
+* 🌱   Currently working on a consultant matching system
 * ⛵   Ideas that I might work on:
   + Knot invariants analysis (using KAN)
   + Geoguessr for HK suburban areas (Ref: Standford PIGEON)
@@ -26,6 +26,20 @@ From 🇭🇰. I do a bit of everything.
 * 🎨   I paint miniatures, reach me for commissioned works.
 * 🎲   Board game collector, always out of space. Latest additions :[《Oathsworn》](https://boardgamegeek.com/boardgame/251661/oathsworn-into-the-deepwood), [《7th Citadel》](https://boardgamegeek.com/boardgame/286063/the-7th-citadel)
 <hr>
+
+## 👨‍💻 Projects
+* <a href="https://github.com/austinmyc/ZoeFocal">ZoeFocal</a> : Improvement study based on the ZoeDepth model for Zero-shot Depth Estimation
+* <a href="https://github.com/austinmyc/Crossformer-stock">Crossformer-stock</a> : An Implementation of Crossformer model to predict stock returns
+* <a href="https://github.com/austinmyc/Driver-License-Renewal">Driver-License-Renewal</a> : Forecasting of Online Driver License Renewal
+* Kilta : Analysis of Climbing Board data (to be updated)
+
+## 🤡 Random Stuff
+* <a href="https://github.com/austinmyc/Steel-Plate-Defect-Prediction">Steel-Plate-Defect-Prediction</a> : Kaggle Playground Series - Season 4, Episode 3
+* <a href="https://github.com/austinmyc/TSNE">TSNE</a> : Simple Implementation of TSNE and comparision with PCA
+
+<br>
+
+
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/austinmyc?theme=light&font=Work%20Sans&ext=contest)
 <!--
