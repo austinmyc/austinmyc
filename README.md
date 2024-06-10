@@ -13,9 +13,9 @@
 From 🇭🇰. I do a bit of everything.   
 
 * 🧐   Interested in Research, ML, Deep Learning, and solving problems.
-* 💼   Used to be a civil servant, but now I'm a student.
+* 💼   Used to be a civil servant.
 * 🎓   Master of Science in Business Analytics; BBA. in Accounting and Information Systems
-* 🌱   Currently working on a consultant matching system
+* 🌱   Just finished a project on consultant matching system
 * ⛵   Ideas that I might work on:
   + Knot invariants analysis (using KAN)
   + Geoguessr for HK suburban areas (Ref: Standford PIGEON)
