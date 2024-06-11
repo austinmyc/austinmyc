@@ -35,6 +35,7 @@ From 🇭🇰. I do a bit of everything.
 
 ## 🤡 Random Stuff
 * <a href="https://github.com/austinmyc/Steel-Plate-Defect-Prediction">Steel-Plate-Defect-Prediction</a> : Kaggle Playground Series - Season 4, Episode 3
+* <a href="https://github.com/austinmyc/percolation">Percolation</a> : Python implementation of percolation theory and union find algorithm
 * <a href="https://github.com/austinmyc/TSNE">TSNE</a> : Simple Implementation of TSNE and comparision with PCA
 * <a href="https://github.com/austinmyc/LeetCode">LeetCode</a> : My simple LeetCode Record
 
