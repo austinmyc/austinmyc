@@ -4,12 +4,6 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/austinmyc/)
 ![Profile views](https://komarev.com/ghpvc/?username=austinmyc&color=lightgrey)
 
-
-
- <hr>
-
-![Header](https://readme-typing-svg.herokuapp.com?font=Roboto&size=36&duration=3500&pause=1000&color=484848&random=false&width=435&lines=++Hey+this+is+Austin!%F0%9F%91%8B++)
-
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![image](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
@@ -20,6 +14,9 @@
 ![image](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
 
 
+ <hr>
+
+![Header](https://readme-typing-svg.herokuapp.com?font=Roboto&size=36&duration=3500&pause=1000&color=484848&random=false&width=435&lines=++Hey+this+is+Austin!%F0%9F%91%8B++)
 
 From 🇭🇰. I do a bit of everything.   
 
