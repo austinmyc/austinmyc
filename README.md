@@ -11,9 +11,10 @@
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![image](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
 
-
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-EEEEEE?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
  <hr>
 
 ![Header](https://readme-typing-svg.herokuapp.com?font=Roboto&size=36&duration=3500&pause=1000&color=484848&random=false&width=435&lines=++Hey+this+is+Austin!%F0%9F%91%8B++)
