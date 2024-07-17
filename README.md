@@ -32,9 +32,13 @@ From 🇭🇰. I do a bit of everything.
 * 📚   Reading Kolmogorov Arnold Network (KAN), 《Options, Futures, and Other Derivatives 9th Ed.》, 《Flash Boys》.
 * 💻   Getting better at DSA... 
 * 🧗   I climb, mainly indoor.
-* 🎨   I paint miniatures, reach me for commissioned works.
+* 🎨   I paint miniatures & draw pixel art (see below^^). Reach me for commissioned works.
 * 🎲   Board game collector, always out of space. Latest additions :[《Oathsworn》](https://boardgamegeek.com/boardgame/251661/oathsworn-into-the-deepwood), [《7th Citadel》](https://boardgamegeek.com/boardgame/286063/the-7th-citadel)
 <hr>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/37e5eb94-480b-4433-90f5-8e39240d8d8a" width="300">
+</p>
+
 
 ## 👨‍💻 Projects
 * <a href="https://github.com/austinmyc/ZoeFocal">ZoeFocal</a> : Improvement study based on the ZoeDepth model for Zero-shot Depth Estimation
