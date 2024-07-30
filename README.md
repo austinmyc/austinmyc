@@ -54,7 +54,6 @@ From 🇭🇰. I do a bit of everything.
 * <a href="https://github.com/austinmyc/LeetCode">LeetCode</a> : My simple LeetCode Record
 
 <br>
-
  <div id="banner">
     <div class="inline-block">
         <img src="https://leetcard.jacoblin.cool/austinmyc?theme=light&font=Work%20Sans&ext=contest" height="450" width="400">
