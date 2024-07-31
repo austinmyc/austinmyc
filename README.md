@@ -55,16 +55,16 @@ From 🇭🇰. I do a bit of everything.
 
 <br>
 
-<!--
+
  <div id="banner">
     <div class="inline-block">
         <img src="https://leetcard.jacoblin.cool/austinmyc?theme=light&font=Work%20Sans&ext=contest" height="450" width="400">
-        
+        <img src="https://leetcode-badge-showcase.vercel.app/api?username=austinmyc&theme=light&animated=true&height="450">
     </div>  
 </div>
 
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=austinmyc&theme=light&animated=true" height="450">
--->
+
+
 
 
