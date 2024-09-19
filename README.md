@@ -22,14 +22,14 @@
 From 🇭🇰. I do a bit of everything.   
 
 * 🧐   Interested in Research, ML, Deep Learning, and solving problems.
-* 💼   Used to be a civil servant.
+* 💼   Used to be a civil servant. But now I'm an AI Engineer
 * 🎓   Master of Science in Business Analytics; BBA. in Accounting and Information Systems
-* 🌱   Just finished a project on consultant matching system
+* 🌱   Working on Knowledge Graphs...
 * ⛵   Ideas that I might work on:
-  + Knot invariants analysis (using KAN)
+  + Applications of Kolmogorov Arnold Network (KAN)
   + Geoguessr for HK suburban areas (Ref: Standford PIGEON)
   + Chessbot for《That Time You Killed Me》
-* 📚   Reading Kolmogorov Arnold Network (KAN), 《Options, Futures, and Other Derivatives 9th Ed.》, 《Flash Boys》.
+* 📚   Reading《Options, Futures, and Other Derivatives 9th Ed.》, 《Flash Boys》.
 * 💻   Getting better at DSA... 
 * 🧗   I climb, mainly indoor.
 * 🎨   I paint miniatures & draw pixel art (see below^^). Reach me for commissioned works.
