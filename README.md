@@ -29,10 +29,10 @@ From 🇭🇰. I do a bit of everything.
   + Applications of Kolmogorov Arnold Network (KAN)
   + Geoguessr for HK suburban areas (Ref: Standford PIGEON)
   + Chessbot for《That Time You Killed Me》
-* 📚   Reading《Options, Futures, and Other Derivatives 9th Ed.》, 《Flash Boys》.
+* 📚   Reading《Options, Futures, and Other Derivatives》, 《チ。-地球の運動について》.
 * 💻   Getting better at DSA... 
 * 🧗   I climb, mainly indoor.
-* 🎨   I paint miniatures & draw pixel art (see below^^). Reach me for commissioned works.
+* 🎨   I paint miniatures & draw pixel art. Reach me for commissioned works.
 * 🎲   Board game collector, always out of space. Latest additions :[《Oathsworn》](https://boardgamegeek.com/boardgame/251661/oathsworn-into-the-deepwood), [《7th Citadel》](https://boardgamegeek.com/boardgame/286063/the-7th-citadel)
 <hr>
 <p align="center">
@@ -47,7 +47,7 @@ From 🇭🇰. I do a bit of everything.
 * Kilta : Analysis of Climbing Board data (to be updated)
 
 ## 🤡 Random Stuff
-* <a href="https://github.com/austinmyc/Steel-Plate-Defect-Prediction">Steel-Plate-Defect-Prediction</a> : Kaggle Playground Series - Season 4, Episode 3
+* <a href="https://github.com/austinmyc/Steel-Plate-Defect-Prediction">Steel-Plate-Defect-Prediction</a> : Kaggle Playground Series
 * <a href="https://github.com/austinmyc/percolation">Percolation</a> : Python implementation of percolation theory and union find algorithm
 * <a href="https://github.com/austinmyc/donutpy">donutpy</a> : donut.c in Python
 * <a href="https://github.com/austinmyc/TSNE">TSNE</a> : Simple Implementation of TSNE and comparision with PCA
