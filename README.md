@@ -29,7 +29,7 @@ From 🇭🇰. I do a bit of everything.
   + Applications of Kolmogorov Arnold Network (KAN)
   + Geoguessr for HK suburban areas (Ref: Standford PIGEON)
   + Chessbot for《That Time You Killed Me》
-* 📚   Reading《Options, Futures, and Other Derivatives》, 《チ。-地球の運動について》.
+* 📚   Reading《Options, Futures, and Other Derivatives》.
 * 💻   Getting better at DSA... 
 * 🧗   I climb, mainly indoor.
 * 🎨   I paint miniatures & draw pixel art. Reach me for commissioned works.
@@ -47,6 +47,7 @@ From 🇭🇰. I do a bit of everything.
 * Kilta : Analysis of Climbing Board data (to be updated)
 
 ## 🤡 Random Stuff
+* <a href="https://github.com/austinmyc/MNIST_RGCN">MNIST_RGCN</a> : Implementation of Relational GCN on MNIST dataset using small training data 
 * <a href="https://github.com/austinmyc/Steel-Plate-Defect-Prediction">Steel-Plate-Defect-Prediction</a> : Kaggle Playground Series
 * <a href="https://github.com/austinmyc/percolation">Percolation</a> : Python implementation of percolation theory and union find algorithm
 * <a href="https://github.com/austinmyc/donutpy">donutpy</a> : donut.c in Python
