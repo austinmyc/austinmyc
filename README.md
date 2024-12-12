@@ -29,7 +29,7 @@ From 🇭🇰. I do a bit of everything.
   + Applications of Kolmogorov Arnold Network (KAN)
   + Geoguessr for HK suburban areas (Ref: Standford PIGEON)
   + Chessbot for《That Time You Killed Me》
-* 📚   Reading《Options, Futures, and Other Derivatives》.
+* 📚   Reading《Genesis: Artificial Intelligence, Hope, and the Human Spirit》.
 * 💻   Getting better at DSA... 
 * 🧗   I climb, mainly indoor.
 * 🎨   I paint miniatures & draw pixel art. Reach me for commissioned works.
