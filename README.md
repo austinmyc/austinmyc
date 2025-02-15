@@ -24,7 +24,7 @@ From 🇭🇰. I do a bit of everything.
 * 🧐   Interested in Research, ML, Deep Learning, and solving problems.
 * 💼   Used to be a civil servant. But now I'm an AI Engineer
 * 🎓   Master of Science in Business Analytics; BBA. in Accounting and Information Systems
-* 🌱   Working on Knowledge Graphs...
+* 🌱   Working on Knowledge Graphs, LLMs, Agents...
 * ⛵   Ideas that I might work on:
   + Applications of Kolmogorov Arnold Network (KAN)
   + Geoguessr for HK suburban areas (Ref: Standford PIGEON)
