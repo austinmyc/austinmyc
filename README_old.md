@@ -1,21 +1,7 @@
 
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square)](https://github.com/austinmyc/)-->
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/austinmyc/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/austinmyc/)
 ![Profile views](https://komarev.com/ghpvc/?username=austinmyc&color=lightgrey)
 
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![image](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![image](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-EEEEEE?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
- <hr>
 
 ![Header](https://readme-typing-svg.herokuapp.com?font=Roboto&size=36&duration=3500&pause=1000&color=484848&random=false&width=435&lines=++Hey+this+is+Austin!%F0%9F%91%8B++)
 
